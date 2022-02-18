@@ -18,6 +18,8 @@ body {
 }
 
 nav {
+    width: 100%;
+    position: fixed;
     padding: 1rem 0;
     background-color: #fff;
 }
@@ -51,7 +53,7 @@ nav {
 }
 
 .link-icon .icon {
-    padding: 0 1rem;
+    padding: 0 1.3rem;
 }
 
 .icon {
@@ -73,3 +75,12 @@ nav {
 .icon-icon i {
     font-size: 1.2rem;
 }
+
+.profile {
+    border-right: 1px solid #eee;
+}
+
+
+/* END NAB BUILD  */
+
+.main {}
